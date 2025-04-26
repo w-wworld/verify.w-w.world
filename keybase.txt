@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/wiley_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://verify.w-w.world
+  * I am wiley_ (https://keybase.io/wiley_) on keybase.
+  * I have a public key with fingerprint B9B7 E583 0625 B2CD 4456  6E1C 97FC 06AB E614 E66E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010103b4a4858c16e9c3fe78799bcd4b8372d674e29993b06a853b84149934cc9dd50a",
+      "fingerprint": "b9b7e5830625b2cd44566e1c97fc06abe614e66e",
+      "host": "keybase.io",
+      "key_id": "97fc06abe614e66e",
+      "kid": "010103b4a4858c16e9c3fe78799bcd4b8372d674e29993b06a853b84149934cc9dd50a",
+      "uid": "a88d29e97d1e991e4e7d5985e5f82319",
+      "username": "wiley_"
+    },
+    "service": {
+      "hostname": "verify.w-w.world",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1745665686,
+  "expire_in": 157680000,
+  "prev": "d9613ccafcf8d9806c63a8a25c94afd1dd355a2652a0828b02b7d45dcce07acb",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkntQVFUcx3d5DegqIC9dC+UORNKCe9/3AhmhYzZawjTFQ4blPs7CVby77K6s
+KzEuEcPa0CzOKKREI8jLsqJSCGSoSALioUMPRYw0BAcKY3CcMQGncxn9rz87548z
+53e+38/5nt+cyjWeKl919ZLPJ9PB07J6cIZX5Wm664sQ3iQ6kPgi5ABYWUC+CKw2
+wwFJROIRPQonzhMcwZCMgFKAFXAjoBmaZXlBJHgGpzGRogmAsSyL83qKY0icZwiU
+gFtCEFhRJPUcokOMkpwLLGaLJNsglmd5GpAMrqcwkscgiCApCqACSxsFyOABhRIA
+VqAxz2RVHDAcz1lBnGSCNbgxrMT7D/3/nPvQCo5jGBFjAUuLKGBZFBCAFkmWIQFp
+ZDAcZRWhFVhk7iCAaruUDwMixToE1golAShtVd7x5LwQWCSjI84ea4+zmyz5InSb
+LSabSTDlw9M8m81sjVfcNod5BQd4wxOQgZdkEXYSOiDEKplkJB6FSsEmKWSUVvpI
+UgylQ8Bhs2QBBklRkDTF6OFQ7gGFECmyFIpnCgJnFIyMyDJ6SqBwjuEwUmAJziii
+ooiTJIdRJMbpGYzh9RhPiwQpCgLQ05zAI8rbCmQTEo/BnFwuZFqlXJmzHbIApHjV
+MQ/cS6X2VT0bGuHV0T5V6hP15fCOt+Rnnv4+bw/l66lW+QU8rfT4+z9+Lnpt0KPw
+H+XYI/dDfi/RHB6IHpvuC76FllmTs/9Jb3Auzu+OrW0exu427n8wpDu7M/Cus6v1
+vdhQW8Qj3zBt0bj4qb5ztjuP+s2RlPlCmupG5f2dWq+pyBtU+2a/pJaW7JLFdavL
+67VFS4lY97b058Pto5qfP+zVNbjaUl9cxJH3kYuVWvNiwevNk6dVaf4pBd8bKnr6
+h6iqzoTxW4nLm+ozPrO/ejlfWpcW8sEu7c3xhNprGlVYd9hGR8H55rqTC5MTX8w9
+SFBf7c+6c8RrL1ZasdfaV7yrOSeyq3TmeFhi53yb10hgRPmagAt1NWVNIyfeCKqc
+JT2atLtPb0/uvd5LRrk39Qmt7dd63M7v5q42tp3yiRiMKZvsYnymFvz2bFBfOuVK
+OLeB22iYumQIrY5udXoP5dx7OYOey4raPm8cazre+c0wYzvf4VheWHvCefC1lon1
+M9qlmn0xVas/zvxr/+c/aK7HOBvGPH3PDm+ZfTga4+67PCmMPq4K+iPcObGNS0y9
+su/dgA7n0a1JySV/l8sDXYO5gl1sCDC90+e5I6ItXWbKQn/V3P5q6oLbP3LsnOuj
+5fmj3V/XZD2sBi+dDE7pqtDVrl/6M8WVkXDmW7c3t9Vy++101x71TbTuzCsX5wau
+2AvvESO/jIhx7pxUe6wr5KfA3oGgLWFvNs73L2Xf2WwZ/Bc=
+=YAjd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wiley_
+
+==================================================================
